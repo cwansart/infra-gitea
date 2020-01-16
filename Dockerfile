@@ -1,4 +1,4 @@
-FROM gitea/gitea:1.9.5
+FROM gitea/gitea:1.10.2
 
 ENV APP_NAME OKE Repos
 ENV RUN_MODE prod
